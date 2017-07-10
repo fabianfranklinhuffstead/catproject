@@ -1,0 +1,18 @@
+html{
+	background: #c0c0c0;
+}
+.container{
+	display: flex;
+	justify-content: center;
+}
+.box{
+	flex: 1;
+    height: 33vh;
+}
+.box:nth-child(2){
+	margin: auto;
+    flex: none;
+	width: 30.6px;
+    height: 31.5px;
+    background: url(../img/cat.png) 0 0;
+}
