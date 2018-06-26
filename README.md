@@ -10,4 +10,6 @@
 <li>Try to find a reasonable solution for devices that don't have a mouse. i.e. onclick event (check main js <a href="https://github.com/fabianfranklinhuffstead/catproject/tree/master/js">here</a>).</li>
 </ul>
 
+<img src="https://github.com/fabianfranklinhuffstead/catproject/blob/master/img/cat.png">
+
 <p>Please contact for fixes, changes further instructions.</p>
